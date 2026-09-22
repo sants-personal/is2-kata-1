@@ -3,20 +3,20 @@ package software.ulpgc;
 import java.time.LocalDate;
 
 public class Person {
-    private String Name;
+    private String name;
     private LocalDate birthday;
 
     public Person(String name, LocalDate birthday) {
-        Name = name;
+        this.name = name;
         this.birthday = birthday;
     }
 
     public String getName() {
-        return Name;
+        return name;
     }
 
     public void setName(String name) {
-        Name = name;
+        this.name = name;
     }
 
     public LocalDate getBirthday() {
@@ -27,22 +27,23 @@ public class Person {
         this.birthday = birthday;
     }
 
-    public int age() {
+    public int age(){
         LocalDate now = LocalDate.now();
-        int years = now.getYear() - this.birthday.getYear();
+        int years = now.getYear() - birthday.getYear();
         if (
                 now.getMonthValue() < birthday.getMonthValue() ||
-                (now.getMonthValue() == this.birthday.getMonthValue() && now.getDayOfMonth() < birthday.getDayOfMonth())
-        ) return years - 1;
+                (now.getMonthValue() == birthday.getMonthValue() &&
+                        now.getDayOfMonth() < birthday.getDayOfMonth())
+        ) return years -1;
         return years;
     }
 
     @Override
     public String toString() {
         return "Person{" +
-                "Name='" + Name + '\'' +
+                "name='" + name + '\'' +
                 ", birthday=" + birthday +
-                ", age=" + age()+
+                ", age=" + age() +
                 '}';
     }
 }

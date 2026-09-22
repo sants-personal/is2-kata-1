@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc81734-74c1-4eda-a8b4-b42708e4b9c4" name="Changes" comment="person and main">
+    <list default="true" id="6cc81734-74c1-4eda-a8b4-b42708e4b9c4" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/software/ulpgc/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -22,84 +22,95 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="0c3e706f3f9ddf648c6358a4b6c715d1f366c111" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sants-personal"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sants-personal&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sants-personal/is2-kata-1.git",
-    "accountId": "5bd4a414-ebd3-48d8-88de-90ce1abdf70d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sants-personal/is2-kata-1.git&quot;,
+    &quot;accountId&quot;: &quot;5bd4a414-ebd3-48d8-88de-90ce1abdf70d&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.4473306701219248E-11" />
-      <entry key="MS500" value="0.0075463775697253545" />
-      <entry key="S2" value="0.29478239155916675" />
-      <entry key="S5" value="0.654760779700152" />
-      <entry key="S10" value="1.1884631066098652" />
-      <entry key="S30" value="2.785143197157706" />
-      <entry key="S60" value="3.697558666367199" />
-      <entry key="M2" value="4.684241820865331" />
-      <entry key="M5" value="9.784796110202471" />
-      <entry key="M10" value="17.09973573963284" />
-      <entry key="M15" value="21.38204971529288" />
-      <entry key="M30" value="27.16655897703631" />
-      <entry key="H1" value="30.785813698450987" />
-      <entry key="H2" value="32.812626153947534" />
-      <entry key="H4" value="33.88545119555836" />
-      <entry key="D1" value="34.81127459100678" />
-      <entry key="W1" value="34.97296563124412" />
+      <entry key="MS100" value="7.110898559470781E-83" />
+      <entry key="MS500" value="3.718646508577875E-17" />
+      <entry key="S2" value="7.818607345619984E-5" />
+      <entry key="S5" value="0.02569183800205179" />
+      <entry key="S10" value="0.26713434699716876" />
+      <entry key="S30" value="2.682548943366697" />
+      <entry key="S60" value="7.529803687345085" />
+      <entry key="M2" value="16.763262433733658" />
+      <entry key="M5" value="31.383614293796963" />
+      <entry key="M10" value="39.74029764543424" />
+      <entry key="M15" value="43.12266606151345" />
+      <entry key="M30" value="46.86200647542978" />
+      <entry key="H1" value="48.87837295285779" />
+      <entry key="H2" value="49.92566099573612" />
+      <entry key="H4" value="50.45940195757328" />
+      <entry key="D1" value="50.90942008025852" />
+      <entry key="W1" value="50.98704819701587" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0000003689682468" />
-      <entry key="MS500" value="1.051688960527704" />
-      <entry key="S2" value="1.4768144953230635" />
-      <entry key="S5" value="1.7436025264015302" />
-      <entry key="S10" value="1.8636806538809898" />
-      <entry key="S30" value="2.0625685545199914" />
-      <entry key="S60" value="2.3204172349455456" />
-      <entry key="M2" value="3.061957077869969" />
-      <entry key="M5" value="8.133213810518015" />
-      <entry key="M10" value="15.0179191816519" />
-      <entry key="M15" value="18.92471998149249" />
-      <entry key="M30" value="24.10793280988591" />
-      <entry key="H1" value="27.307994928367737" />
-      <entry key="H2" value="29.087909666361604" />
-      <entry key="H4" value="30.02682013002829" />
-      <entry key="D1" value="30.835369633696065" />
-      <entry key="W1" value="30.97642105891206" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000522003285939" />
+      <entry key="S5" value="1.0280566857480984" />
+      <entry key="S10" value="1.3476608297209067" />
+      <entry key="S30" value="4.0874521212153265" />
+      <entry key="S60" value="8.060362981095581" />
+      <entry key="M2" value="13.456537396072518" />
+      <entry key="M5" value="20.198635797742142" />
+      <entry key="M10" value="23.635188645622183" />
+      <entry key="M15" value="24.973474411861694" />
+      <entry key="M30" value="26.424567863613195" />
+      <entry key="H1" value="27.195971635193782" />
+      <entry key="H2" value="27.593806913343723" />
+      <entry key="H4" value="27.79584582796508" />
+      <entry key="D1" value="27.965826302450413" />
+      <entry key="W1" value="27.995114404100967" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.433458774479961E-5" />
-      <entry key="MS500" value="0.1431681508669081" />
-      <entry key="S2" value="1.1295063343755882" />
-      <entry key="S5" value="2.018496164358486" />
-      <entry key="S10" value="2.8246101148594165" />
-      <entry key="S30" value="4.74635669399487" />
-      <entry key="S60" value="5.954471394907483" />
-      <entry key="M2" value="7.700165746257219" />
-      <entry key="M5" value="17.86327550319306" />
-      <entry key="M10" value="32.06549990276107" />
-      <entry key="M15" value="40.262583546080485" />
-      <entry key="M30" value="51.24613749563326" />
-      <entry key="H1" value="58.0776952663514" />
-      <entry key="H2" value="61.89194018620061" />
-      <entry key="H4" value="63.90783129495683" />
-      <entry key="D1" value="65.64588380261695" />
-      <entry key="W1" value="65.94927754953528" />
+      <entry key="MS100" value="0.011125392153102119" />
+      <entry key="MS500" value="0.40668959906606295" />
+      <entry key="S2" value="0.7986818619079382" />
+      <entry key="S5" value="0.9628319407372601" />
+      <entry key="S10" value="1.5370048006348664" />
+      <entry key="S30" value="6.629827952851665" />
+      <entry key="S60" value="15.422969825976994" />
+      <entry key="M2" value="30.063033453458875" />
+      <entry key="M5" value="51.48033188529142" />
+      <entry key="M10" value="63.31417743458401" />
+      <entry key="M15" value="68.05254824878303" />
+      <entry key="M30" value="73.26329468860604" />
+      <entry key="H1" value="76.06230864025478" />
+      <entry key="H2" value="77.51334755708156" />
+      <entry key="H4" value="78.25216158390072" />
+      <entry key="D1" value="78.8747283639002" />
+      <entry key="W1" value="78.9820885085072" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JgCcv554b34xcDayyJLJAvE14e" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -111,17 +122,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "kata1.3",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/santi/Desktop/EII5/IS2/software/katas/kata1/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="software.ulpgc" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
@@ -159,29 +172,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="innit" />
-    <MESSAGE value="person and main" />
-    <option name="LAST_COMMIT_MESSAGE" value="person and main" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/software/ulpgc/Person.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/software/ulpgc/Person.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/software/ulpgc/Person.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="person y name&#10;&#10;(cherry picked from commit 0c3e706f3f9ddf648c6358a4b6c715d1f366c111)" />
+    <option name="LAST_COMMIT_MESSAGE" value="person y name&#10;&#10;(cherry picked from commit 0c3e706f3f9ddf648c6358a4b6c715d1f366c111)" />
   </component>
 </project>
