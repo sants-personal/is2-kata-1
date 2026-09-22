@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc81734-74c1-4eda-a8b4-b42708e4b9c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kata1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="6cc81734-74c1-4eda-a8b4-b42708e4b9c4" name="Changes" comment="person and main">
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,61 +38,61 @@
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000024" />
-      <entry key="MS500" value="1.0047429487671682" />
-      <entry key="S2" value="1.262429170905767" />
-      <entry key="S5" value="1.585605090609405" />
-      <entry key="S10" value="1.7652483849113336" />
-      <entry key="S30" value="1.9146764002100345" />
-      <entry key="S60" value="1.9563871602076404" />
-      <entry key="M2" value="1.9779504896504936" />
-      <entry key="M5" value="1.9911211580762767" />
-      <entry key="M10" value="1.9955506808175447" />
-      <entry key="M15" value="1.9970315832461336" />
-      <entry key="M30" value="1.998514688548012" />
-      <entry key="H1" value="1.9992570683002509" />
-      <entry key="H2" value="1.999628465131046" />
-      <entry key="H4" value="1.999814215307547" />
-      <entry key="D1" value="1.9999690334873779" />
-      <entry key="W1" value="1.999995576153772" />
+      <entry key="MS100" value="2.4473306701219248E-11" />
+      <entry key="MS500" value="0.0075463775697253545" />
+      <entry key="S2" value="0.29478239155916675" />
+      <entry key="S5" value="0.654760779700152" />
+      <entry key="S10" value="1.1884631066098652" />
+      <entry key="S30" value="2.785143197157706" />
+      <entry key="S60" value="3.697558666367199" />
+      <entry key="M2" value="4.684241820865331" />
+      <entry key="M5" value="9.784796110202471" />
+      <entry key="M10" value="17.09973573963284" />
+      <entry key="M15" value="21.38204971529288" />
+      <entry key="M30" value="27.16655897703631" />
+      <entry key="H1" value="30.785813698450987" />
+      <entry key="H2" value="32.812626153947534" />
+      <entry key="H4" value="33.88545119555836" />
+      <entry key="D1" value="34.81127459100678" />
+      <entry key="W1" value="34.97296563124412" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.316451606830008E-5" />
-      <entry key="MS500" value="0.12709683416149453" />
-      <entry key="S2" value="0.5970815935372947" />
-      <entry key="S5" value="0.8136047459974189" />
-      <entry key="S10" value="0.9020004135239733" />
-      <entry key="S30" value="0.9662041804724366" />
-      <entry key="S60" value="0.9829568558550456" />
-      <entry key="M2" value="0.9914418065903039" />
-      <entry key="M5" value="0.9965678931738438" />
-      <entry key="M10" value="0.9982824716350798" />
-      <entry key="M15" value="0.9988546530725264" />
-      <entry key="M30" value="0.9994271624648424" />
-      <entry key="H1" value="0.9997135402028136" />
-      <entry key="H2" value="0.9998567598425354" />
-      <entry key="H4" value="0.9999283773563662" />
-      <entry key="D1" value="0.9999880625364758" />
-      <entry key="W1" value="0.9999982946393433" />
+      <entry key="MS100" value="1.0000003689682468" />
+      <entry key="MS500" value="1.051688960527704" />
+      <entry key="S2" value="1.4768144953230635" />
+      <entry key="S5" value="1.7436025264015302" />
+      <entry key="S10" value="1.8636806538809898" />
+      <entry key="S30" value="2.0625685545199914" />
+      <entry key="S60" value="2.3204172349455456" />
+      <entry key="M2" value="3.061957077869969" />
+      <entry key="M5" value="8.133213810518015" />
+      <entry key="M10" value="15.0179191816519" />
+      <entry key="M15" value="18.92471998149249" />
+      <entry key="M30" value="24.10793280988591" />
+      <entry key="H1" value="27.307994928367737" />
+      <entry key="H2" value="29.087909666361604" />
+      <entry key="H4" value="30.02682013002829" />
+      <entry key="D1" value="30.835369633696065" />
+      <entry key="W1" value="30.97642105891206" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.447512535742796" />
-      <entry key="MS500" value="0.8642671350647304" />
-      <entry key="S2" value="1.4457062757651735" />
-      <entry key="S5" value="2.0990780226244166" />
-      <entry key="S10" value="2.480801228285259" />
-      <entry key="S30" value="2.808683896342979" />
-      <entry key="S60" value="2.901843779433382" />
-      <entry key="M2" value="2.9502797484181063" />
-      <entry key="M5" value="2.9799554731719127" />
-      <entry key="M10" value="2.9899514703229273" />
-      <entry key="M15" value="2.9932951287148146" />
-      <entry key="M30" value="2.9966446349600315" />
-      <entry key="H1" value="2.9983215844460003" />
-      <entry key="H2" value="2.9991606088788396" />
-      <entry key="H4" value="2.999580258592668" />
-      <entry key="D1" value="2.999930036730264" />
-      <entry key="W1" value="2.999990005091205" />
+      <entry key="MS100" value="3.433458774479961E-5" />
+      <entry key="MS500" value="0.1431681508669081" />
+      <entry key="S2" value="1.1295063343755882" />
+      <entry key="S5" value="2.018496164358486" />
+      <entry key="S10" value="2.8246101148594165" />
+      <entry key="S30" value="4.74635669399487" />
+      <entry key="S60" value="5.954471394907483" />
+      <entry key="M2" value="7.700165746257219" />
+      <entry key="M5" value="17.86327550319306" />
+      <entry key="M10" value="32.06549990276107" />
+      <entry key="M15" value="40.262583546080485" />
+      <entry key="M30" value="51.24613749563326" />
+      <entry key="H1" value="58.0776952663514" />
+      <entry key="H2" value="61.89194018620061" />
+      <entry key="H4" value="63.90783129495683" />
+      <entry key="D1" value="65.64588380261695" />
+      <entry key="W1" value="65.94927754953528" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -100,6 +106,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -107,10 +114,29 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/santi/Desktop/EII5/IS2/software/katas/kata1/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="kata1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -131,5 +157,31 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="innit" />
+    <MESSAGE value="person and main" />
+    <option name="LAST_COMMIT_MESSAGE" value="person and main" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/software/ulpgc/Person.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/software/ulpgc/Person.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/software/ulpgc/Person.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
