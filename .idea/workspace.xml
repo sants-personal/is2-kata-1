@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cc81734-74c1-4eda-a8b4-b42708e4b9c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kata1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sants-personal"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sants-personal/is2-kata-1.git",
+    "accountId": "5bd4a414-ebd3-48d8-88de-90ce1abdf70d"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000024" />
+      <entry key="MS500" value="1.0047429487671682" />
+      <entry key="S2" value="1.262429170905767" />
+      <entry key="S5" value="1.585605090609405" />
+      <entry key="S10" value="1.7652483849113336" />
+      <entry key="S30" value="1.9146764002100345" />
+      <entry key="S60" value="1.9563871602076404" />
+      <entry key="M2" value="1.9779504896504936" />
+      <entry key="M5" value="1.9911211580762767" />
+      <entry key="M10" value="1.9955506808175447" />
+      <entry key="M15" value="1.9970315832461336" />
+      <entry key="M30" value="1.998514688548012" />
+      <entry key="H1" value="1.9992570683002509" />
+      <entry key="H2" value="1.999628465131046" />
+      <entry key="H4" value="1.999814215307547" />
+      <entry key="D1" value="1.9999690334873779" />
+      <entry key="W1" value="1.999995576153772" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.316451606830008E-5" />
+      <entry key="MS500" value="0.12709683416149453" />
+      <entry key="S2" value="0.5970815935372947" />
+      <entry key="S5" value="0.8136047459974189" />
+      <entry key="S10" value="0.9020004135239733" />
+      <entry key="S30" value="0.9662041804724366" />
+      <entry key="S60" value="0.9829568558550456" />
+      <entry key="M2" value="0.9914418065903039" />
+      <entry key="M5" value="0.9965678931738438" />
+      <entry key="M10" value="0.9982824716350798" />
+      <entry key="M15" value="0.9988546530725264" />
+      <entry key="M30" value="0.9994271624648424" />
+      <entry key="H1" value="0.9997135402028136" />
+      <entry key="H2" value="0.9998567598425354" />
+      <entry key="H4" value="0.9999283773563662" />
+      <entry key="D1" value="0.9999880625364758" />
+      <entry key="W1" value="0.9999982946393433" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.447512535742796" />
+      <entry key="MS500" value="0.8642671350647304" />
+      <entry key="S2" value="1.4457062757651735" />
+      <entry key="S5" value="2.0990780226244166" />
+      <entry key="S10" value="2.480801228285259" />
+      <entry key="S30" value="2.808683896342979" />
+      <entry key="S60" value="2.901843779433382" />
+      <entry key="M2" value="2.9502797484181063" />
+      <entry key="M5" value="2.9799554731719127" />
+      <entry key="M10" value="2.9899514703229273" />
+      <entry key="M15" value="2.9932951287148146" />
+      <entry key="M30" value="2.9966446349600315" />
+      <entry key="H1" value="2.9983215844460003" />
+      <entry key="H2" value="2.9991606088788396" />
+      <entry key="H4" value="2.999580258592668" />
+      <entry key="D1" value="2.999930036730264" />
+      <entry key="W1" value="2.999990005091205" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JgCcv554b34xcDayyJLJAvE14e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/santi/Desktop/EII5/IS2/software/katas/kata1/src/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cc81734-74c1-4eda-a8b4-b42708e4b9c4" name="Changes" comment="" />
+      <created>1790073421696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790073421696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
