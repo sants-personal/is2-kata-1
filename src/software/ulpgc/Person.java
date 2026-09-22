@@ -15,7 +15,7 @@ public class Person {
         return Name;
     }
 
-    public void setName(String name) {
+    public void changeName(String name) {
         Name = name;
     }
 
