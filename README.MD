@@ -8,5 +8,5 @@ git clone https://github.com/sants-personal/is2-kata-1.git
 ```
 
 3. abrir el reposiotrio clonado en intellij
-4. confirmar que el sdk usado sea: JDK-26
+4. confirmar que el sdk usado sea: Oracle OpenJDK 26.0.2
 5. luego, "build and run"
