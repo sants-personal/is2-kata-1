@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cc81734-74c1-4eda-a8b4-b42708e4b9c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/Person.java" afterDir="false" />
+    <list default="true" id="6cc81734-74c1-4eda-a8b4-b42708e4b9c4" name="Changes" comment="person y main (kata 1 v3)&#10;&#10;(cherry picked from commit 0c3e706f3f9ddf648c6358a4b6c715d1f366c111)">
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,61 +42,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="7.110898559470781E-83" />
-      <entry key="MS500" value="3.718646508577875E-17" />
-      <entry key="S2" value="7.818607345619984E-5" />
-      <entry key="S5" value="0.02569183800205179" />
-      <entry key="S10" value="0.26713434699716876" />
-      <entry key="S30" value="2.682548943366697" />
-      <entry key="S60" value="7.529803687345085" />
-      <entry key="M2" value="16.763262433733658" />
-      <entry key="M5" value="31.383614293796963" />
-      <entry key="M10" value="39.74029764543424" />
-      <entry key="M15" value="43.12266606151345" />
-      <entry key="M30" value="46.86200647542978" />
-      <entry key="H1" value="48.87837295285779" />
-      <entry key="H2" value="49.92566099573612" />
-      <entry key="H4" value="50.45940195757328" />
-      <entry key="D1" value="50.90942008025852" />
-      <entry key="W1" value="50.98704819701587" />
+      <entry key="MS100" value="1.000051681232444" />
+      <entry key="MS500" value="1.1395409710029756" />
+      <entry key="S2" value="1.7702910557664793" />
+      <entry key="S5" value="2.301086262367044" />
+      <entry key="S10" value="2.5991912069865117" />
+      <entry key="S30" value="3.0935181694241707" />
+      <entry key="S60" value="5.181112769226549" />
+      <entry key="M2" value="12.138815355685397" />
+      <entry key="M5" value="27.64733484707522" />
+      <entry key="M10" value="38.22128257671762" />
+      <entry key="M15" value="42.78892635651949" />
+      <entry key="M30" value="48.01450062398949" />
+      <entry key="H1" value="50.905267115101324" />
+      <entry key="H2" value="52.426204884009074" />
+      <entry key="H4" value="53.206374771433076" />
+      <entry key="D1" value="53.86678431556846" />
+      <entry key="W1" value="53.98094591258457" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000522003285939" />
-      <entry key="S5" value="1.0280566857480984" />
-      <entry key="S10" value="1.3476608297209067" />
-      <entry key="S30" value="4.0874521212153265" />
-      <entry key="S60" value="8.060362981095581" />
-      <entry key="M2" value="13.456537396072518" />
-      <entry key="M5" value="20.198635797742142" />
-      <entry key="M10" value="23.635188645622183" />
-      <entry key="M15" value="24.973474411861694" />
-      <entry key="M30" value="26.424567863613195" />
-      <entry key="H1" value="27.195971635193782" />
-      <entry key="H2" value="27.593806913343723" />
-      <entry key="H4" value="27.79584582796508" />
-      <entry key="D1" value="27.965826302450413" />
-      <entry key="W1" value="27.995114404100967" />
+      <entry key="MS100" value="1.0391628747E-314" />
+      <entry key="MS500" value="1.5971169709654625E-63" />
+      <entry key="S2" value="1.9992027976031462E-16" />
+      <entry key="S5" value="5.399465047907066E-7" />
+      <entry key="S10" value="9.76669086906854E-4" />
+      <entry key="S30" value="0.3671483864932393" />
+      <entry key="S60" value="2.415733781313363" />
+      <entry key="M2" value="7.366828490123085" />
+      <entry key="M5" value="15.873070056033102" />
+      <entry key="M10" value="20.95214641321564" />
+      <entry key="M15" value="23.045807621661925" />
+      <entry key="M30" value="25.384252330504427" />
+      <entry key="H1" value="26.65525372059054" />
+      <entry key="H2" value="27.318115797993013" />
+      <entry key="H4" value="27.656642409879584" />
+      <entry key="D1" value="27.942434995726696" />
+      <entry key="W1" value="27.991768089504873" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.011125392153102119" />
-      <entry key="MS500" value="0.40668959906606295" />
-      <entry key="S2" value="0.7986818619079382" />
-      <entry key="S5" value="0.9628319407372601" />
-      <entry key="S10" value="1.5370048006348664" />
-      <entry key="S30" value="6.629827952851665" />
-      <entry key="S60" value="15.422969825976994" />
-      <entry key="M2" value="30.063033453458875" />
-      <entry key="M5" value="51.48033188529142" />
-      <entry key="M10" value="63.31417743458401" />
-      <entry key="M15" value="68.05254824878303" />
-      <entry key="M30" value="73.26329468860604" />
-      <entry key="H1" value="76.06230864025478" />
-      <entry key="H2" value="77.51334755708156" />
-      <entry key="H4" value="78.25216158390072" />
-      <entry key="D1" value="78.8747283639002" />
-      <entry key="W1" value="78.9820885085072" />
+      <entry key="MS100" value="0.8705955544221401" />
+      <entry key="MS500" value="1.1083619566672593" />
+      <entry key="S2" value="1.7569118289157777" />
+      <entry key="S5" value="2.2933234666323044" />
+      <entry key="S10" value="2.59550443293573" />
+      <entry key="S30" value="3.4463288191450343" />
+      <entry key="S60" value="7.545833028938094" />
+      <entry key="M2" value="19.419361785302847" />
+      <entry key="M5" value="43.44012678105339" />
+      <entry key="M10" value="59.11898660498798" />
+      <entry key="M15" value="65.79444433787269" />
+      <entry key="M30" value="73.37635865145418" />
+      <entry key="H1" value="77.54870860330358" />
+      <entry key="H2" value="79.73825368312868" />
+      <entry key="H4" value="80.85994253719367" />
+      <entry key="D1" value="81.80870107596053" />
+      <entry key="W1" value="81.97263982550434" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -122,12 +121,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "kata1.3",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/santi/Desktop/EII5/IS2/software/katas/kata1/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/santi/Desktop/EII5/IS2/software/katas/kata1/src/Main.java",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -146,6 +148,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -170,6 +173,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="person y name&#10;&#10;(cherry picked from commit 0c3e706f3f9ddf648c6358a4b6c715d1f366c111)" />
